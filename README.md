@@ -14,7 +14,7 @@ $ python myproject.py
 
 🌐・**Check Out My Website: [lefeu.nvnet.pl](http://lefeu.nvnet.pl)**
 
-📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986)**
+📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986) or join my [discord server](https://discord.gg/Y6XMxTW5u5)**
 
 <div align="center">
     <h2 align="center">⚡ Statistics</h2>
