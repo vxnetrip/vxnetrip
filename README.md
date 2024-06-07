@@ -10,7 +10,7 @@ $ python myproject.py
 > Python was not found ;/
 ```
 
-📂・**Latest soon coming project: [lefeu.nvnet.pl](http://lefeu.nvnet.pl) update**
+📂・**Latest soon coming project: GIVE ME IDEAS FOR PROJECTS ON DISCORD
 
 🌐・**Check Out My Website: [lefeu.nvnet.pl](http://lefeu.nvnet.pl)**
 
