@@ -1,9 +1,12 @@
 ```apache
 Error 500: Internal Server Error.
 ```
-```python
-my_name = 'vxnetrip'
-print(f'Follow {my_name} on Github')
+```c
+int strSize = 8 + 1;
+char* buff = (char*)calloc(strSize, sizeof(char));
+strcpy(buff, "vxnetrip")
+printf(f'Follow %s on Github\n', buff);
+free(buff);
 ```
 ```terminal
 $ python myproject.py
