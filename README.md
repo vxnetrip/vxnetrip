@@ -9,8 +9,9 @@ printf(f'Follow %s on Github\n', buff);
 free(buff);
 ```
 ```terminal
-$ python myproject.py
-> Python was not found ;/
+[vx@archlinux ~]$ gcc time.c
+cc1: fatal error: time.c: No such file or directory
+compilation terminated.
 ```
 
 📂・**Latest soon coming project: GIVE ME IDEAS FOR PROJECTS ON DISCORD
