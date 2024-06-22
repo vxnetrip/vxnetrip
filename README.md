@@ -14,9 +14,9 @@ cc1: fatal error: time.c: No such file or directory
 compilation terminated.
 ```
 
-📂・**Latest soon coming project: GIVE ME IDEAS FOR PROJECTS ON DISCORD
+📂・**Latest soon coming project**: GIVE ME IDEAS FOR PROJECTS ON DISCORD
 
-🌐・**Check Out My Website: [lefeu.nvnet.pl](http://lefeu.nvnet.pl)**
+🌐・**Check Out My Website**: [lefeu.nvnet.pl](http://lefeu.nvnet.pl)
 
 📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986) or join my [discord server](https://discord.gg/Y6XMxTW5u5)**
 
