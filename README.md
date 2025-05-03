@@ -14,7 +14,7 @@ cc1: fatal error: time.c: No such file or directory
 compilation terminated.
 ```
 
-📂・**Latest soon coming project**: GIVE ME IDEAS FOR PROJECTS ON DISCORD
+📂・**Latest soon coming project**: PyVeil Obfuscator
 
 🌐・**Check Out My Website**: [https://vxnetrip.infy.uk](https://vxnetrip.infy.uk)
 
