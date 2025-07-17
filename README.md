@@ -53,6 +53,8 @@ compilation terminated.
 ## 🔧 Tools & Frameworks
 
 <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/X64dbg_logo.svg" width="40" alt="x64dbg" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/IDA_Pro_logo.svg" width="40" alt="IDA Pro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" alt="GCC" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />&nbsp;&nbsp;&nbsp;
