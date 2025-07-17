@@ -16,7 +16,7 @@ main:
     mov ecx, 0
     call exit
 ```
-```terminal
+```sh
 [vx@archlinux ~]$ gcc time.c
 cc1: fatal error: time.c: No such file or directory
 compilation terminated.
