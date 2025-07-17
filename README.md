@@ -18,14 +18,14 @@ main:
     call exit
 ```
 
-### 😵‍💫 About me in a nutshell
+## 😵‍💫 About me in a nutshell
 ```bash
 [vx@archlinux ~]$ gcc time.c
 cc1: fatal error: time.c: No such file or directory
 compilation terminated.
 ```
 
-### 💀 I am a programmer contact etc ble ble ble:
+## 💀 I am a programmer contact etc ble ble ble:
 
 > 📂・**Latest soon coming project**: NULL
 
@@ -39,7 +39,7 @@ compilation terminated.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows" />
 </p>
 
-### 💳 Stats: 
+## 💳 Stats: 
 
 <div align="center">
     <h2 align="center">⚡ Statistics</h2>
