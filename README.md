@@ -54,7 +54,7 @@ compilation terminated.
 
 <p align="left">
   <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" width="40" alt="IDA Pro" />&nbsp;&nbsp;&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/923303365974593536/jP926AXC_400x400.jpg" width="40" alt="x64dbg" />
+  <img src="https://pbs.twimg.com/profile_images/923303365974593536/jP926AXC_400x400.jpg" width="40" alt="x64dbg" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" alt="GCC" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />&nbsp;&nbsp;&nbsp;
