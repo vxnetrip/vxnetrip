@@ -48,10 +48,6 @@ compilation terminated.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />&nbsp;&nbsp;&nbsp;
 
-
-
-## 💳 Stats: 
-
 <div align="center">
     <h2 align="center">⚡ Statistics</h2>
     <div>
