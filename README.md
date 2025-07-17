@@ -33,13 +33,13 @@ compilation terminated.
 
 > 📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986) or join my [discord server](https://discord.gg/Y6XMxTW5u5)**
 
-### 🖥️ Operating Systems:
+## 🖥️ Operating Systems:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows" />
 </p>
 
-### 🔧 Tools & Frameworks
+## 🔧 Tools & Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;&nbsp;
