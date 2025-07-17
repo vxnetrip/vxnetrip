@@ -28,11 +28,11 @@ compilation terminated.
 
 ### 💀 I am a programmer contact etc ble ble ble:
 
-📂・**Latest soon coming project**: NULL
+> 📂・**Latest soon coming project**: NULL
 
-🌐・**Check Out My Website**: [https://vxnet.onrender.com](https://vxnet.onrender.com)
+> 🌐・**Check Out My Website**: [https://vxnet.onrender.com](https://vxnet.onrender.com)
 
-📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986) or join my [discord server](https://discord.gg/Y6XMxTW5u5)**
+> 📩・**Want to reach? Add @vxnetrip on [discord](https://discord.com/users/1126449850041511986) or join my [discord server](https://discord.gg/Y6XMxTW5u5)**
 
 ### 💳 Stats: 
 
