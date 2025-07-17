@@ -1,12 +1,20 @@
-```apache
-Error 500: Internal Server Error.
-```
-```c
-int strSize = 8 + 1;
-char* buff = (char*)calloc(strSize, sizeof(char));
-strcpy(buff, "vxnetrip")
-printf(f'Follow %s on Github\n', buff);
-free(buff);
+```asm
+section .data
+    message_format db "Follow %s on Github", 10, 0
+    username db "vxnetrip", 0
+
+section .text
+    global main
+    extern printf
+    extern exit
+
+main:
+    sub rsp, 40
+    mov rcx, message_format
+    lea rdx, [rel username]
+    call printf
+    mov ecx, 0
+    call exit
 ```
 ```terminal
 [vx@archlinux ~]$ gcc time.c
